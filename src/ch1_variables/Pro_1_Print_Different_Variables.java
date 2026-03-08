@@ -1,7 +1,7 @@
 package ch1_variables;
 
 //Variable is a container that stores a value.This value can be change during the execution of the program.
-public class Print_Different_Variables {
+public class Pro_1_Print_Different_Variables {
 
 	public static void main(String[] args) {
 		//Example_1:-Print name of person

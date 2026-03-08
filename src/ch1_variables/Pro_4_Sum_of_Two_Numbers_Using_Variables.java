@@ -1,6 +1,6 @@
 package ch1_variables;
 
-public class Sum_of_Two_Numbers_Using_Variables {
+public class Pro_4_Sum_of_Two_Numbers_Using_Variables {
 
 	public static void main(String[] args) {
 		//Take two variables and sum their values.

@@ -1,6 +1,6 @@
 package ch1_variables;
 
-public class Calculate_Area_of_Circle {
+public class Pro_6_Calculate_Area_of_Circle {
 
 	public static void main(String[] args) {
 		//Take one variables radius and Calculate area of circle.

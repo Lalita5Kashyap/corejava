@@ -1,6 +1,6 @@
 package ch1_variables;
 
-public class Calculate_Area_of_Rectangle {
+public class Pro_5_Calculate_Area_of_Rectangle {
 
 	public static void main(String[] args) {
 		//Take two variables and Calculate area of rec.

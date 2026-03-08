@@ -1,6 +1,6 @@
 package ch1_variables;
 
-public class Swap_Two_Numbers_Using_Temporary_Variable {
+public class Pro_2_Swap_Two_Numbers_Using_Temporary_Variable {
 
 	public static void main(String[] args) {
 		//Take two variables and swap their values.
