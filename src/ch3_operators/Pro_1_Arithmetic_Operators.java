@@ -1,4 +1,4 @@
-package ch_3_operators;
+package ch3_operators;
 
 public class Pro_1_Arithmetic_Operators {
 

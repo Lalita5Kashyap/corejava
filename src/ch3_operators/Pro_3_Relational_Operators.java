@@ -1,4 +1,4 @@
-package ch_3_operators;
+package ch3_operators;
 
 public class Pro_3_Relational_Operators {
 
