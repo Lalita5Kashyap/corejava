@@ -13,5 +13,4 @@ public class Pro_04_Program_to_Print_ASCII_Value_of_a_Character {
 		System.out.print("ASCII value of A is: ");
 		System.out.println(ascii);
 	}
-
 }

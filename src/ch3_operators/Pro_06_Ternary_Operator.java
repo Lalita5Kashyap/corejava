@@ -22,5 +22,4 @@ public class Pro_06_Ternary_Operator {
 		String resul = (age >= 18) ? "Eligible to vote" : "Not eligible to vote";
 		System.out.println(resul);
 	}
-
 }

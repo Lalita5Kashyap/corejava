@@ -1,4 +1,4 @@
-package ch4_Decision_Statement;
+package ch4_decision_Statement;
 
 public class Pro_03_Check_Voting_Eligibility {
 
@@ -12,5 +12,4 @@ public class Pro_03_Check_Voting_Eligibility {
 			System.out.println("Person is not eligible for voting");
 		}
 	}
-
 }

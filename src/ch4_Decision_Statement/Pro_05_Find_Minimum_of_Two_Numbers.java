@@ -1,4 +1,4 @@
-package ch4_Decision_Statement;
+package ch4_decision_Statement;
 
 public class Pro_05_Find_Minimum_of_Two_Numbers {
 
@@ -11,5 +11,4 @@ public class Pro_05_Find_Minimum_of_Two_Numbers {
 			System.out.println("b is lesser than a");
 		}
 	}
-
 }

@@ -11,7 +11,5 @@ public class Pro_11_Static_Variable {
 		// modifying static variable
 		count = 20;
 		System.out.println("Updated value of static variable: " + count);
-
 	}
-
 }

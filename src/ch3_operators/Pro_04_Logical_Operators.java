@@ -41,5 +41,4 @@ public class Pro_04_Logical_Operators {
 		}
 		System.out.println("--------------------------------------");
 	}
-
 }

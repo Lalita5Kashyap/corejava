@@ -17,5 +17,4 @@ public class Pro_03_Swap_Two_Numbers_Using_Temporary_Variable {
 		System.out.print("After swapping print value of b: ");
 		System.out.println(b);
 	}
-
 }

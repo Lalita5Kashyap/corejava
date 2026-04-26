@@ -36,7 +36,5 @@ public class Pro_01_Print_All_Primitive_Data_Types {
 		String boolea = "tureORfalse"; // boolean Values: true or false
 		System.out.print("Boolean value is :");
 		System.out.println(boolea);
-
 	}
-
 }

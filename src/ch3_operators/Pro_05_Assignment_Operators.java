@@ -21,5 +21,4 @@ public class Pro_05_Assignment_Operators {
 		num %= 3; // num = num % 3
 		System.out.println("After Modolus %= : " + num);
 	}
-
 }

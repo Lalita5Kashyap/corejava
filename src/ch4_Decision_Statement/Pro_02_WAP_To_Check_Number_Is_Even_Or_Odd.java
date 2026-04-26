@@ -1,4 +1,4 @@
-package ch4_Decision_Statement;
+package ch4_decision_Statement;
 
 public class Pro_02_WAP_To_Check_Number_Is_Even_Or_Odd {
 
@@ -10,5 +10,4 @@ public class Pro_02_WAP_To_Check_Number_Is_Even_Or_Odd {
 			System.out.println("Number is odd");
 		}
 	}
-
 }

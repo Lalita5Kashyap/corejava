@@ -52,7 +52,5 @@ public class Pro_01_Arithmetic_Operators {
 		rem = a4 % b4;
 		System.out.print("Remainder after division of two numbers : ");
 		System.out.println(rem);
-
 	}
-
 }

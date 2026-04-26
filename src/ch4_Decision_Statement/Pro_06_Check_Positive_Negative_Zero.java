@@ -1,4 +1,4 @@
-package ch4_Decision_Statement;
+package ch4_decision_Statement;
 
 public class Pro_06_Check_Positive_Negative_Zero {
 
@@ -11,7 +11,5 @@ public class Pro_06_Check_Positive_Negative_Zero {
 		} else {
 			System.out.println("Number is zero");
 		}
-
 	}
-
 }

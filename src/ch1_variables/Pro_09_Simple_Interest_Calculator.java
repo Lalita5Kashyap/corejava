@@ -13,7 +13,5 @@ public class Pro_09_Simple_Interest_Calculator {
 		SI = (principal * rate * time) / 100;
 		System.out.print("Simple Interest is : ");
 		System.out.println(SI);
-
 	}
-
 }

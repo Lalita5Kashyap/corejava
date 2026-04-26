@@ -3,7 +3,8 @@ package ch2_datatypes;
 public class Pro_05_TypeCasting {
 
 	public static void main(String[] args) {
-		// The process of converting a value from one data type to another.
+		// The process of converting a value from one data type to another.It is also
+		// known as primitive typecasting.
 
 		// 1.Program to Convert Char into Integer
 		char ch = 'a';
@@ -25,7 +26,5 @@ public class Pro_05_TypeCasting {
 		char a = (char) x;// Narrowing explicit
 		System.out.println(a);
 		System.out.println("------------------------------------------");
-
 	}
-
 }

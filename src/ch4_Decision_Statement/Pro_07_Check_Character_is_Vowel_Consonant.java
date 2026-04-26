@@ -1,4 +1,4 @@
-package ch4_Decision_Statement;
+package ch4_decision_Statement;
 
 public class Pro_07_Check_Character_is_Vowel_Consonant {
 
@@ -10,7 +10,5 @@ public class Pro_07_Check_Character_is_Vowel_Consonant {
 		} else {
 			System.out.println(ch + " is a consonant.");
 		}
-
 	}
-
 }

@@ -35,7 +35,5 @@ public class Pro_02_Print_Different_Variables {
 		System.out.println(isJavaFun);
 		System.out.println("Is Fish Flying? ");
 		System.out.println(isFishFlying);
-
 	}
-
 }

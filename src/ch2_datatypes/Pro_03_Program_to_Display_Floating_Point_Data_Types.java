@@ -12,7 +12,5 @@ public class Pro_03_Program_to_Display_Floating_Point_Data_Types {
 		double dou = -99; // double Size: 8 bytes
 		System.out.print("Double value is :");
 		System.out.println(dou);
-
 	}
-
 }

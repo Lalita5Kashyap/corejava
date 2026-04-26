@@ -84,7 +84,5 @@ public class Pro_03_Relational_Operators {
 			System.out.println("a is equal to b ");
 		}
 		System.out.println("******************");
-
 	}
-
 }

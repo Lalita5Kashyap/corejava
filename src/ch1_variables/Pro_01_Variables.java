@@ -10,13 +10,10 @@ public class Pro_01_Variables {
 		rno = 234; // variable initialization : assigning value to variable
 
 		System.out.println(rno);// print variable value
-		
-		//re-initialization/updation -assigning new value to existing variable
-		
-		rno=455;
+
+		// re-initialization/updation -assigning new value to existing variable
+
+		rno = 455;
 		System.out.println(rno);
-
-
 	}
-
 }
